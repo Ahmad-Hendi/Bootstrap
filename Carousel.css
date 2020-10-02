@@ -1,0 +1,29 @@
+.home{
+    background-size: 100vh;
+   
+}
+
+.container {
+    padding: 3%;
+}
+
+.inner{
+    overflow: hidden;
+}
+
+.inner img{
+    transition: all 1.5s ease;
+}
+
+.inner:hover img{
+    transform: scale(1.5);
+}
+
+
+.about-me{
+    padding-top: 4%;
+}
+
+.media {
+    padding-top: 1%;
+}

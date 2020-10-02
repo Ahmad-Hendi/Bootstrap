@@ -1,0 +1,25 @@
+
+
+.row {
+    padding-top:3%;
+    padding-bottom:3%;
+    
+}
+ 
+
+img.card-img-top {
+    width:68%;
+    padding-left:34% ;
+}    
+
+.inner{
+    overflow: visible;
+}
+
+.inner img{
+    transition: all 1.5s ease;
+}
+
+.inner:hover img{
+    transform: scale(1.5);
+}
